@@ -1,0 +1,18 @@
+---
+title: "About"
+image: christie_barron.jpg
+about:
+  template: jolla
+  links:
+    - icon: twitter
+      text: Twitter
+      href: https://x.com/christiembarron
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/christiebarron/
+    - icon: github
+      text: Github
+      href: https://github.com/christiebarron
+---
+
+About this blog
