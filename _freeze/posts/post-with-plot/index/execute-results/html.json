@@ -1,0 +1,16 @@
+{
+  "hash": "4b1d97926231dfb7d43bfa66309a5386",
+  "result": {
+    "markdown": "---\ntitle: \"Plot\"\nauthor: \"Christie Barron\"\ndate: \"2024-09-01\"\ncategories: [code, analysis]\nimage: \"image.png\"\n---\n\n\nThis is a post with plot\n\n\n::: {.cell}\n\n```{.r .cell-code}\nplot(mtcars$mpg)\n```\n\n::: {.cell-output-display}\n![](index_files/figure-html/unnamed-chunk-1-1.png){width=672}\n:::\n:::\n",
+    "supporting": [
+      "index_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

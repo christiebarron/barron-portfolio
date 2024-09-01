@@ -1,0 +1,5 @@
+<iframe 
+  width="800" 
+  height="800" 
+  src="images/barron_2024-09-01_github_resume.pdf">
+</iframe>

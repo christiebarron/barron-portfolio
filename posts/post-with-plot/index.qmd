@@ -1,0 +1,13 @@
+---
+title: "Plot"
+author: "Christie Barron"
+date: "2024-09-01"
+categories: [code, analysis]
+image: "image.png"
+---
+
+This is a post with plot
+
+```{r}
+plot(mtcars$mpg)
+```

@@ -1,6 +1,6 @@
 ---
 title: "About"
-image: christie_barron.jpg
+image: images/christie_barron.jpg
 about:
   template: jolla
   links:
@@ -15,4 +15,4 @@ about:
       href: https://github.com/christiebarron
 ---
 
-About this blog
+I am an analyst and psychometrician with a PhD in Educational Psychology. My academic journey has equipped me with a deep understanding of human learning processes and the statistical methods used to measure educational outcomes.
