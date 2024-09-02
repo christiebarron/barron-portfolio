@@ -1,0 +1,4 @@
+- source: project
+  quarto-pub:
+    - id: f199f3b3-305c-40e0-a315-02f79a97aa5b
+      url: 'https://christiebarron.quarto.pub/portfolio'
